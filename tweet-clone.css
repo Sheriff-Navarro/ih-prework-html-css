@@ -1,0 +1,75 @@
+body {
+  background: rgb(244, 248, 249)
+}
+
+.tweet-container{
+	background: rgb(255, 255, 255);
+	border: 2px solid rgb(225, 232, 237);
+	width: 600px;
+	border-radius: 10px;
+	position: auto;
+}
+
+.profile-image {
+	margin-top:25px;
+	margin-left:25px;
+}
+
+.walking-man {
+	margin-top: 23px;
+	position: relative;
+	left:20px;
+
+}
+
+.tweet-text {
+
+margin-left: 25px;
+}
+
+
+.name-jack{
+font-size: 30px;
+}
+
+.validated-account {
+	position: relative;
+	bottom: 35px;
+	left: 50px;
+}
+
+.follow-button {
+	height: 50px;
+	width: 125px;
+	border: 2px solid rgb(85, 172, 238);
+	margin-right: 20px;
+	border-radius: 10px;
+	position: relative;
+	bottom: 115px;
+	float: right;
+	padding-right:20px;
+	font: rgb(85, 172, 238);
+}
+
+img.follow-button {
+	padding-top: 20px;	
+}
+
+* { 
+	font-family: Helvetica;
+  
+}
+
+p{
+	font: rgb()
+}
+
+
+li {
+	display: inline-block;
+}
+
+.handle {
+	position: relative;
+}
+
